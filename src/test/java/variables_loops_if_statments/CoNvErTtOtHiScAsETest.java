@@ -4,7 +4,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 import static variables_loops_if_statments.CoNvErTtOtHiScAsE.annoyingCase;
-import static variables_loops_if_statments.CoNvErTtOtHiScAsE.count;
 
 /**
  * Created by clara on 2/2/18.
@@ -16,9 +15,7 @@ public class CoNvErTtOtHiScAsETest {
         String msg = "Convert the string to alternate uppercase and lowercase letters. Skip over spaces, punctuation, and any other character not a-z or A-Z." +
                 " Compare actual and expected results.";
         assertEquals(msg,  "hElLo", annoyingCase("Hello"));
-        count = 0;
         assertEquals(msg,  "hElLo WoRlD", annoyingCase("Hello World"));
-        count = 0;
         assertEquals(msg,  "wHaT's ThE pOiNt Of ThIs?", annoyingCase("What's the point of this?"));
     
     
