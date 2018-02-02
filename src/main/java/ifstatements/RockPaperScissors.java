@@ -1,4 +1,4 @@
-package variables_loops_if_statments;
+package ifstatements;
 
 import java.util.Random;
 

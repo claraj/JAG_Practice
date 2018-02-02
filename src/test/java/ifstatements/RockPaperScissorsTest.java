@@ -1,9 +1,9 @@
-package variables_loops_if_statments;
+package ifstatements;
 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-import static variables_loops_if_statments.RockPaperScissors.*;
+import static ifstatements.RockPaperScissors.*;
 
 /**
  * Created by clara on 2/2/18.
