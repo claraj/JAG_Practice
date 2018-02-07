@@ -48,4 +48,17 @@ public class FindCodeFilesTest {
         
     }
     
+    
+    
+    @Test
+    public void filterProgramCodeFilesCaseSensitive() throws Exception {
+        
+        String[] files = {"assignment.JAVA", "script.JS", "report.rb", "week1.doc", "code.py", "form.pdf"};
+        String[] extensions = {".c", ".cs", ".java", ".js", ".py", ".rb"};
+        
+        String[] expected = {"report.rb", "code.py"};
+        assertArrayEquals("Return an array with only the program files - the ones with the extensions in the extensions array - in it. Be case-sensitive.", expected, filterProgramCodeFiles(files, extensions));
+        
+    }
+    
 }

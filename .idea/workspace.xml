@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="" />
+    <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" afterPath="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" afterPath="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" afterPath="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" />
+    </list>
     <ignored path="Java Auto Grader - Wk 2 etc.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,12 +26,24 @@
     <favorites_list name="Java Auto Grader - Wk 2 etc" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MetersToFeet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/RockPaperScissors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="135">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsProgrammingCourse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -36,90 +53,78 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square_Numbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/numbers/Square_Numbers.java">
+      <file leaf-file-name="IsProgrammingCourseTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ifstatements/IsProgrammingCourseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="652">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square_NumbersTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Square_NumbersTest.java">
+      <file leaf-file-name="DoubleArrayValues.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/DoubleArrayValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Whisper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/Whisper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="32" column="72" lean-forward="false" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Whisper_Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/Whisper_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="128" lean-forward="false" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuizGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuizGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/QuizGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuizGameTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/QuizGameTest.java">
+      <file leaf-file-name="DoubleArrayValuesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/arrays/DoubleArrayValuesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="206" lean-forward="false" selection-start-line="22" selection-start-column="206" selection-end-line="22" selection-end-column="206" />
+            <state relative-caret-position="240">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoNvErTtOtHiScAsE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/variables_loops_if_statments/CoNvErTtOtHiScAsE.java">
+      <file leaf-file-name="RockPaperScissorsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ifstatements/RockPaperScissorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoNvErTtOtHiScAsETest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/variables_loops_if_statments/CoNvErTtOtHiScAsETest.java">
+      <file leaf-file-name="FindCodeFilesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="410">
+              <caret line="59" column="153" lean-forward="false" selection-start-line="59" selection-start-column="153" selection-end-line="59" selection-end-column="153" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindCodeFiles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,13 +142,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Adding</find>
-      <find>miles</find>
       <find>shout</find>
+      <find>miles</find>
     </findStrings>
     <replaceStrings>
       <replace>Multiply</replace>
-      <replace>meters</replace>
       <replace>whisper</replace>
+      <replace>meters</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -160,15 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grades/Lab 2 Questions.md" />
-        <option value="$PROJECT_DIR$/src/main/java/week_2/Question_4_Random_Number_Guessing_Game.java" />
-        <option value="$PROJECT_DIR$/src/test/java/week_2/Question_4_Random_Number_Guessing_GameTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_8_square_of_characters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_1_add_numbers_1_to_100.java" />
-        <option value="$PROJECT_DIR$/src/test/java/week_0/Question_1_add_numbers_1_to_100Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_3_Quiz_Question.java" />
-        <option value="$PROJECT_DIR$/src/test/java/week_0/Question_3_Quiz_QuestionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/week_0/Question_4_DuplicateStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_4_DuplicateString.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_4_Copy_String.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_5_Many_Copy_String.java" />
@@ -182,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/test/java/week_0/Question_4_Triplicate_String_Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_0/Question_5_Test_Class_Setup.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_0/Question_1_Add_Numbers_Test.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_4_Triplicate_String.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_3_Miles_To_Kilometers.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_2_Shout.java" />
@@ -200,7 +195,6 @@
         <option value="$PROJECT_DIR$/src/test/java/numbers/Square_NumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/numbers/Square_Numbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/numbers/Question_3_Miles_To_Kilometers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/Question_2_ShoutTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/Whisper_Test.java" />
@@ -209,8 +203,19 @@
         <option value="$PROJECT_DIR$/src/main/java/strings/CoNvErTtOtHiScAsE.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/QuizGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/QuizGame.java" />
-        <option value="$PROJECT_DIR$/src/test/java/variables_loops_if_statments/CoNvErTtOtHiScAsETest.java" />
         <option value="$PROJECT_DIR$/src/main/java/variables_loops_if_statments/CoNvErTtOtHiScAsE.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/variables_loops_if_statments/CoNvErTtOtHiScAsETest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/variables_loops_if_statments/RockPaperScissorsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/variables_loops_if_statments/RockPaperScissors.java" />
+        <option value="$PROJECT_DIR$/src/test/java/arrays/DoubleArrayValuesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/DoubleArrayValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ifstatements/RockPaperScissors.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ifstatements/IsProgrammingCourseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" />
+        <option value="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" />
       </list>
     </option>
   </component>
@@ -241,8 +246,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="227" />
-    <option name="y" value="73" />
+    <option name="x" value="98" />
+    <option name="y" value="23" />
     <option name="width" value="1206" />
     <option name="height" value="823" />
   </component>
@@ -362,6 +367,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,6 +406,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ifstatements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="numbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -428,6 +452,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Auto Grader - Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Auto Grader Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ifstatements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java Auto Grader - Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -457,9 +497,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,13 +524,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ifstatements" />
+      <recent name="arrays" />
       <recent name="variables_loops_if_statments" />
       <recent name="strings" />
       <recent name="numbers" />
-      <recent name="week_0" />
-      <recent name="week_4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ifstatements" />
       <recent name="week_0" />
       <recent name="go_fish_project" />
     </key>
@@ -526,40 +564,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CoNvErTtOtHiScAsETest">
-    <configuration name="CoNvErTtOtHiScAsE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="variables_loops_if_statments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="variables_loops_if_statments.CoNvErTtOtHiScAsE" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java Auto Grader - Practice" />
-      <envs />
-    </configuration>
-    <configuration name="CoNvErTtOtHiScAsETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="variables_loops_if_statments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.DoubleArrayValues">
+    <configuration name="All in Java Auto Grader - Practice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Java Auto Grader - Practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="variables_loops_if_statments" />
-      <option name="MAIN_CLASS_NAME" value="variables_loops_if_statments.CoNvErTtOtHiScAsETest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -571,19 +585,38 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CoNvErTtOtHiScAsETest.annoyingCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DoubleArrayValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="variables_loops_if_statments.*" />
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="arrays.DoubleArrayValues" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java Auto Grader - Practice" />
+      <envs />
+    </configuration>
+    <configuration name="DoubleArrayValuesTest.doubleArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Java Auto Grader - Practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="variables_loops_if_statments" />
-      <option name="MAIN_CLASS_NAME" value="variables_loops_if_statments.CoNvErTtOtHiScAsETest" />
-      <option name="METHOD_NAME" value="annoyingCaseTest" />
+      <option name="PACKAGE_NAME" value="arrays" />
+      <option name="MAIN_CLASS_NAME" value="arrays.DoubleArrayValuesTest" />
+      <option name="METHOD_NAME" value="doubleArrayTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -596,19 +629,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="QuizGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsProgrammingCourseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="ifstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Java Auto Grader - Practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.QuizGameTest" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="ifstatements" />
+      <option name="MAIN_CLASS_NAME" value="ifstatements.IsProgrammingCourseTest" />
+      <option name="METHOD_NAME" value="boolToIsOrIsNotTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -621,20 +654,20 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Whisper_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsProgrammingCourseTest.boolToIsOrIsNotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="variables_loops_if_statments.*" />
+          <option name="PATTERN" value="ifstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Java Auto Grader - Practice" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.Whisper_Test" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ifstatements" />
+      <option name="MAIN_CLASS_NAME" value="ifstatements.IsProgrammingCourseTest" />
+      <option name="METHOD_NAME" value="boolToIsOrIsNotTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1068,19 +1101,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Whisper_Test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.QuizGameTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CoNvErTtOtHiScAsE" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CoNvErTtOtHiScAsETest.annoyingCaseTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CoNvErTtOtHiScAsETest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DoubleArrayValues" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DoubleArrayValuesTest.doubleArrayTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CoNvErTtOtHiScAsETest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CoNvErTtOtHiScAsE" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CoNvErTtOtHiScAsETest.annoyingCaseTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.QuizGameTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Whisper_Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DoubleArrayValues" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DoubleArrayValuesTest.doubleArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1119,35 +1152,8 @@
       <workItem from="1515100461432" duration="2184000" />
       <workItem from="1515809957312" duration="127000" />
       <workItem from="1516834571944" duration="521000" />
-      <workItem from="1517585178605" duration="7086000" />
-    </task>
-    <task id="LOCAL-00010" summary="more week 2 tests">
-      <created>1496269811927</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1496269811927</updated>
-    </task>
-    <task id="LOCAL-00011" summary="wk 2 nearly done...">
-      <created>1496286833499</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1496286833504</updated>
-    </task>
-    <task id="LOCAL-00012" summary="wk 3 underway">
-      <created>1496294989508</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1496294989508</updated>
-    </task>
-    <task id="LOCAL-00013" summary="reflection!">
-      <created>1496324436230</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1496324436230</updated>
+      <workItem from="1517585178605" duration="12201000" />
+      <workItem from="1517954563309" duration="630000" />
     </task>
     <task id="LOCAL-00014" summary="Util methods for testing">
       <created>1496324842326</created>
@@ -1464,69 +1470,98 @@
       <option name="project" value="LOCAL" />
       <updated>1516834986447</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Rock paper scissors, fix a bug, update readme for practice problems">
+      <created>1517595306189</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1517595306189</updated>
+    </task>
+    <task id="LOCAL-00060" summary="another array problem">
+      <created>1517595918380</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1517595918380</updated>
+    </task>
+    <task id="LOCAL-00061" summary="rearange programs">
+      <created>1517596025360</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1517596025360</updated>
+    </task>
+    <task id="LOCAL-00062" summary="another if example">
+      <created>1517596810400</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1517596810400</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 10h 36m 02s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="DoubleArrayValuesTest - 2018.02.02 at 12h 20m 59s.xml">
+      <configuration name="DoubleArrayValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 10h 36m 57s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="DoubleArrayValuesTest - 2018.02.02 at 12h 22m 06s.xml">
+      <configuration name="DoubleArrayValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 10h 50m 37s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="DoubleArrayValuesTest - 2018.02.02 at 12h 22m 28s.xml">
+      <configuration name="DoubleArrayValuesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 11h 00m 57s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="DoubleArrayValuesTest_doubleArrayTest - 2018.02.02 at 12h 24m 58s.xml">
+      <configuration name="DoubleArrayValuesTest.doubleArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 11h 11m 20s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="IsProgrammingCourseTest - 2018.02.02 at 12h 38m 50s.xml">
+      <configuration name="IsProgrammingCourseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 11h 25m 34s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="IsProgrammingCourseTest - 2018.02.06 at 16h 04m 28s.xml">
+      <configuration name="IsProgrammingCourseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest - 2018.02.02 at 11h 26m 19s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest" configurationId="JUnit" />
+    <history-entry file="IsProgrammingCourseTest_boolToIsOrIsNotTest - 2018.02.02 at 12h 36m 31s.xml">
+      <configuration name="IsProgrammingCourseTest.boolToIsOrIsNotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CoNvErTtOtHiScAsETest_annoyingCaseTest - 2018.02.02 at 10h 31m 18s.xml">
-      <configuration name="CoNvErTtOtHiScAsETest.annoyingCaseTest" configurationId="JUnit" />
+    <history-entry file="IsProgrammingCourseTest_boolToIsOrIsNotTest - 2018.02.02 at 12h 38m 15s.xml">
+      <configuration name="IsProgrammingCourseTest.boolToIsOrIsNotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuizGameTest - 2018.02.02 at 10h 07m 14s.xml">
-      <configuration name="QuizGameTest" configurationId="JUnit" />
+    <history-entry file="RockPaperScissorsTest_determineWinnerUserWin - 2018.02.02 at 12h 10m 57s.xml">
+      <configuration name="RockPaperScissorsTest.determineWinnerUserWin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QuizGameTest - 2018.02.02 at 10h 07m 31s.xml">
-      <configuration name="QuizGameTest" configurationId="JUnit" />
+    <history-entry file="RockPaperScissorsTest_determineWinnerUserWin - 2018.02.02 at 12h 13m 57s.xml">
+      <configuration name="RockPaperScissorsTest.determineWinnerUserWin" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120219000" />
+    <option name="totallyTimeSpent" value="125964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="227" y="73" width="1206" height="823" extended-state="0" />
+    <frame x="98" y="23" width="1206" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3228022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32142857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15900803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21565934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29065302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33104396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16758242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33104396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31443298" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28522336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282967" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2425876" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2425876" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1590,10 +1625,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Wk 4 snow" />
-    <MESSAGE value=" Wk 4 snow ❄️❄️❄️❄️" />
-    <MESSAGE value="Week 2 Lab Assignment" />
-    <MESSAGE value=" Grading rubric" />
     <MESSAGE value="InputUtils library&#10;" />
     <MESSAGE value="Fixed argument typo in cellphone question" />
     <MESSAGE value="Fixed Q5 average bill test" />
@@ -1615,7 +1646,11 @@
     <MESSAGE value="grade JSON" />
     <MESSAGE value="Another test for add numbers" />
     <MESSAGE value="Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
+    <MESSAGE value="Rock paper scissors, fix a bug, update readme for practice problems" />
+    <MESSAGE value="another array problem" />
+    <MESSAGE value="rearange programs" />
+    <MESSAGE value="another if example" />
+    <option name="LAST_COMMIT_MESSAGE" value="another if example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1636,21 +1671,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java Auto Grader - Practice.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_5_Average_Utility_Bill.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_6_Parcel_Delivery.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_9_cellphone_storageTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_3_debuggerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_9_cellphone_storage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_7_String_Contains_Chars.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_4_Random_Number_Guessing_GameTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_4_Random_Number_Guessing_Game.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_8_square_of_charactersTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_5_Average_Utility_BillTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_6_Parcel_DeliveryTest.java" />
@@ -1675,13 +1695,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test_utils/MapUtils.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_3_Miles_To_KilometersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_3_Miles_To_KilometersTest.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1689,14 +1703,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/numbers/Question_5_Class_Setup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="19" lean-forward="false" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/numbers/Question_5_Class_Setup.java" />
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-week_0.Question_4_Triplicate_String_Test.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1732,22 +1739,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_5_Class_Setup_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_4_Triplicate_String_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_5_Class_Setup_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_4_Triplicate_String_Test.java" />
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1769,28 +1762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1806,10 +1777,12 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
             <caret line="4" column="110" lean-forward="false" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
@@ -1817,21 +1790,10 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grades/week_0.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grades/week_0.json" />
     <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Multiply_Numbers_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1866,34 +1828,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_2_Shout_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/variables_loops_if_statments/CoNvErTtOtHiScAsE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_2_Shout_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/Whisper_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="128" lean-forward="false" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
+        <state relative-caret-position="11">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1908,18 +1847,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/variables_loops_if_statments/CoNvErTtOtHiScAsETest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/variables_loops_if_statments/CoNvErTtOtHiScAsE.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/Whisper_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="18" column="128" lean-forward="false" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
           <folding />
         </state>
       </provider>
@@ -1932,10 +1892,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="162" column="20" lean-forward="true" selection-start-line="162" selection-start-column="20" selection-end-line="162" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/DoubleArrayValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/QuizGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ifstatements/IsProgrammingCourseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ifstatements/RockPaperScissorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/DoubleArrayValuesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="59" column="153" lean-forward="false" selection-start-line="59" selection-start-column="153" selection-end-line="59" selection-end-column="153" />
           <folding />
         </state>
       </provider>
