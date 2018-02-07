@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/arrays/FileCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/arrays/FileCountTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" afterPath="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" afterPath="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" afterPath="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" />
     </list>
     <ignored path="Java Auto Grader - Wk 2 etc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,26 +68,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoubleArrayValues.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/DoubleArrayValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuizGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/QuizGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DoubleArrayValuesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/arrays/DoubleArrayValuesTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindCodeFilesTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindCodeFilesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
@@ -119,11 +98,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="FileCount.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FileCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileCountTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FileCountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="FindCodeFiles.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            <state relative-caret-position="319">
+              <caret line="28" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,8 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_4_DuplicateString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week_0/Question_4_Copy_String.java" />
         <option value="$PROJECT_DIR$/src/main/java/week_0/Question_5_Many_Copy_String.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_0/Question_5_Many_Copy_StringTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/week_0/Question_6_Hello_FunctionTest.java" />
@@ -216,6 +213,8 @@
         <option value="$PROJECT_DIR$/src/test/java/numbers/MetersToFeetTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/arrays/FileCountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/FileCount.java" />
       </list>
     </option>
   </component>
@@ -248,7 +247,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="98" />
     <option name="y" value="23" />
-    <option name="width" value="1206" />
+    <option name="width" value="1310" />
     <option name="height" value="823" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -524,8 +523,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="ifstatements" />
       <recent name="arrays" />
+      <recent name="ifstatements" />
       <recent name="variables_loops_if_statments" />
       <recent name="strings" />
       <recent name="numbers" />
@@ -535,10 +534,9 @@
       <recent name="week_0" />
       <recent name="go_fish_project" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main/java/week_4" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="numbers" />
@@ -547,9 +545,10 @@
       <recent name="week_3" />
       <recent name="input" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-      <recent name="junit.framework.TestCase" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/week_4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -564,7 +563,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoubleArrayValues">
+  <component name="RunManager" selected="JUnit.FileCountTest">
     <configuration name="All in Java Auto Grader - Practice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Java Auto Grader - Practice" />
@@ -604,7 +603,7 @@
       <module name="Java Auto Grader - Practice" />
       <envs />
     </configuration>
-    <configuration name="DoubleArrayValuesTest.doubleArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="arrays.*" />
@@ -615,9 +614,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="arrays" />
-      <option name="MAIN_CLASS_NAME" value="arrays.DoubleArrayValuesTest" />
-      <option name="METHOD_NAME" value="doubleArrayTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="arrays.FileCountTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1102,18 +1101,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.DoubleArrayValues" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DoubleArrayValuesTest.doubleArrayTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FileCountTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DoubleArrayValues" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.DoubleArrayValuesTest.doubleArrayTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FileCountTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DoubleArrayValues" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.IsProgrammingCourseTest.boolToIsOrIsNotTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in Java Auto Grader - Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -1153,14 +1152,7 @@
       <workItem from="1515809957312" duration="127000" />
       <workItem from="1516834571944" duration="521000" />
       <workItem from="1517585178605" duration="12201000" />
-      <workItem from="1517954563309" duration="630000" />
-    </task>
-    <task id="LOCAL-00014" summary="Util methods for testing">
-      <created>1496324842326</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1496324842326</updated>
+      <workItem from="1517954563309" duration="974000" />
     </task>
     <task id="LOCAL-00015" summary="Week 3 marathon">
       <created>1496330988950</created>
@@ -1498,13 +1490,17 @@
       <option name="project" value="LOCAL" />
       <updated>1517596810400</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Case sensitive filename comparisons">
+      <created>1518020365920</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1518020365921</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleArrayValuesTest - 2018.02.02 at 12h 20m 59s.xml">
-      <configuration name="DoubleArrayValuesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DoubleArrayValuesTest - 2018.02.02 at 12h 22m 06s.xml">
       <configuration name="DoubleArrayValuesTest" configurationId="JUnit" />
     </history-entry>
@@ -1513,6 +1509,9 @@
     </history-entry>
     <history-entry file="DoubleArrayValuesTest_doubleArrayTest - 2018.02.02 at 12h 24m 58s.xml">
       <configuration name="DoubleArrayValuesTest.doubleArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileCountTest - 2018.02.07 at 10h 24m 51s.xml">
+      <configuration name="FileCountTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="IsProgrammingCourseTest - 2018.02.02 at 12h 38m 50s.xml">
       <configuration name="IsProgrammingCourseTest" configurationId="JUnit" />
@@ -1534,10 +1533,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125964000" />
+    <option name="totallyTimeSpent" value="126308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="23" width="1206" height="823" extended-state="0" />
+    <frame x="98" y="23" width="1310" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1553,7 +1552,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33104396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28522336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26182964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282967" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1625,7 +1624,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="InputUtils library&#10;" />
     <MESSAGE value="Fixed argument typo in cellphone question" />
     <MESSAGE value="Fixed Q5 average bill test" />
     <MESSAGE value="Fixed Q2 random number generator secret number test" />
@@ -1650,7 +1648,8 @@
     <MESSAGE value="another array problem" />
     <MESSAGE value="rearange programs" />
     <MESSAGE value="another if example" />
-    <option name="LAST_COMMIT_MESSAGE" value="another if example" />
+    <MESSAGE value="Case sensitive filename comparisons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Case sensitive filename comparisons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1671,8 +1670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_8_square_of_charactersTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_5_Average_Utility_BillTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/week_0/Question_6_Parcel_DeliveryTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_8_square_of_characters.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/week_0/Question_3_debugger.java" />
@@ -1973,18 +1970,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FindCodeFilesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="59" column="153" lean-forward="false" selection-start-line="59" selection-start-column="153" selection-end-line="59" selection-end-column="153" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindCodeFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FileCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FileCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
