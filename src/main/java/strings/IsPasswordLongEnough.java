@@ -18,7 +18,7 @@ public class IsPasswordLongEnough {
     
     public static boolean isPasswordLongEnough(String password) {
         
-        int minPasswordLength = 8;
+        int minPasswordLength = 8;   // Use this variable in the comparison
         
         // TODO return true if the password String is 8 or more letters long
         // or, TODO return false if the password String is less than 8 letters.

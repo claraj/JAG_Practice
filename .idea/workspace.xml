@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/strings/IsPasswordLongEnough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/strings/IsPasswordLongEnoughTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/strings/IsPasswordLongEnough.java" afterPath="$PROJECT_DIR$/src/main/java/strings/IsPasswordLongEnough.java" />
     </list>
     <ignored path="Java Auto Grader - Wk 2 etc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="IsPasswordLongEnough.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/IsPasswordLongEnough.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="63" lean-forward="false" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+            <state relative-caret-position="300">
+              <caret line="20" column="75" lean-forward="false" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -1156,14 +1155,7 @@
       <workItem from="1516834571944" duration="521000" />
       <workItem from="1517585178605" duration="12201000" />
       <workItem from="1517954563309" duration="1001000" />
-      <workItem from="1518126497199" duration="1384000" />
-    </task>
-    <task id="LOCAL-00017" summary="Week 3 string to int">
-      <created>1496334056860</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1496334056860</updated>
+      <workItem from="1518126497199" duration="1827000" />
     </task>
     <task id="LOCAL-00018" summary="Week 3 credit card">
       <created>1496335588667</created>
@@ -1501,7 +1493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518127089366</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="password length">
+      <created>1518129119075</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1518129119075</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1537,7 +1536,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127719000" />
+    <option name="totallyTimeSpent" value="128162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="381" y="23" width="1027" height="823" extended-state="0" />
@@ -1628,7 +1627,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Fixed Q2 random number generator secret number test" />
     <MESSAGE value="Comments for Q6" />
     <MESSAGE value="Fixes for Q2 random number generator" />
     <MESSAGE value="Fixes for Q2 random number generator tests" />
@@ -1653,7 +1651,8 @@
     <MESSAGE value="Case sensitive filename comparisons" />
     <MESSAGE value="Count program files question" />
     <MESSAGE value="First element of the array question" />
-    <option name="LAST_COMMIT_MESSAGE" value="First element of the array question" />
+    <MESSAGE value="password length" />
+    <option name="LAST_COMMIT_MESSAGE" value="password length" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2015,8 +2014,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/IsPasswordLongEnough.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="63" lean-forward="false" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        <state relative-caret-position="300">
+          <caret line="20" column="75" lean-forward="false" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
           <folding />
         </state>
       </provider>
