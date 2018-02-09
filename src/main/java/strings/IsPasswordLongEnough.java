@@ -3,8 +3,10 @@ package strings;
 import static input.InputUtils.stringInput;
 
 /**
- * Created by clara on 2/8/18.
+ * Strings, if-statements
  */
+
+
 public class IsPasswordLongEnough {
     
     public static void main(String[] args) {
