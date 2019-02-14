@@ -14,7 +14,7 @@ public class IsSocialMediaUser {
             usesSocialMedia[s] = uses;
         }
 
-        // TODO call isSocialMediaUser
+        // TODO call isSocialMediaUser and print a string with the result - does the user use any social media platforms?
 
     }
 
@@ -22,8 +22,9 @@ public class IsSocialMediaUser {
     private static boolean isSocialMediaUser(boolean[] socialMediaPlatforms) {
 
         // todo return true if the user uses at least one of the social media platforms
-        // return false if user doesn't use any of the
-        // if any of the
+        // return false if user doesn't use any of the social media platforms
+        // In other words, if any of the booleans in socialMediaPlatforms are true, return true
+        // if they are all false, return false
 
         return false;
 
