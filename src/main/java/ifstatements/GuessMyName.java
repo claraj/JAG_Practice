@@ -1,4 +1,4 @@
-package loops;
+package ifstatements;
 
 import static input.InputUtils.stringInput;
 

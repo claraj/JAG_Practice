@@ -10,7 +10,7 @@ public class GuessMyNameLoop {
 
         System.out.println("Guess my name!");
 
-        String guess = stringInput("Guess my name!");
+        // TODO write a while loop that repeats until the user guesses the computer's name correctly.
 
 
     }
