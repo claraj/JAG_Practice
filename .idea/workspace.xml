@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/JoinArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/PrintArrayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifstatements/IsITECClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifstatements/IsITECClassCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GuessMyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GuessMyNameLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/LoopCharactersOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc81e9bc-ffde-4ffe-95d7-9eaad6ecc5db" name="Default" comment="more examples">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/IsSocialMediaUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ifstatements/IsSocialMediaUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/numbers/MetersToFeet.java" afterDir="false" />
     </list>
     <ignored path="Java Auto Grader - Wk 2 etc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,26 +30,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="15" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="15" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="2525" />
+          <entry key="java" value="3481" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2525" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="3481" />
+          <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
     </session>
@@ -68,24 +60,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FileCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/PrintArrayElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/arrays/JoinArray1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
+            <state relative-caret-position="39">
               <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
                 <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
@@ -152,11 +126,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
               <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/IsSocialMediaUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/IsSocialMediaUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -192,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/numbers/Add_Numbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/numbers/Multiply_Numbers_Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/numbers/Multiply_Numbers.java" />
         <option value="$PROJECT_DIR$/src/test/java/numbers/Square_NumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/numbers/Square_Numbers.java" />
@@ -243,6 +233,8 @@
         <option value="$PROJECT_DIR$/src/main/java/loops/GuessMyName.java" />
         <option value="$PROJECT_DIR$/src/main/java/loops/GuessMyNameLoop.java" />
         <option value="$PROJECT_DIR$/src/main/java/ifstatements/IsProgrammingCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ifstatements/IsSocialMediaUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrays/IsSocialMediaUser.java" />
       </list>
     </option>
   </component>
@@ -470,7 +462,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550184337555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550184920582" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="dynamic.classpath" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -505,9 +497,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/week_4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="arrays" />
       <recent name="loops" />
       <recent name="ifstatements" />
-      <recent name="arrays" />
       <recent name="numbers" />
       <recent name="week_0" />
     </key>
@@ -892,14 +884,7 @@
       <workItem from="1517585178605" duration="12201000" />
       <workItem from="1517954563309" duration="1001000" />
       <workItem from="1518126497199" duration="3733000" />
-      <workItem from="1550182963833" duration="1821000" />
-    </task>
-    <task id="LOCAL-00019" summary="Week 3 done.">
-      <created>1496337815161</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1496337815161</updated>
+      <workItem from="1550182963833" duration="2324000" />
     </task>
     <task id="LOCAL-00020" summary="Move Go Fish to separate package&#10;">
       <created>1496338151143</created>
@@ -1237,7 +1222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518130724454</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="more examples">
+      <created>1550184795602</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1550184795603</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1273,7 +1265,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131889000" />
+    <option name="totallyTimeSpent" value="132392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1408" height="823" extended-state="0" />
@@ -1365,7 +1357,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Fixes for Q2 random number generator" />
     <MESSAGE value="Fixes for Q2 random number generator tests" />
     <MESSAGE value="Account for Windows-specific newline characters" />
     <MESSAGE value="Cellphone updates, fixed tests" />
@@ -1390,7 +1381,8 @@
     <MESSAGE value="First element of the array question" />
     <MESSAGE value="password length" />
     <MESSAGE value="password length note" />
-    <option name="LAST_COMMIT_MESSAGE" value="password length note" />
+    <MESSAGE value="more examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="more examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1409,8 +1401,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/week_0.Question_4_Triplicate_String_Test.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_5_Class_Setup_Test.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/numbers/Question_4_Triplicate_String_Test.java" />
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
@@ -1686,16 +1676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/loops/GuessMyNameLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1728,6 +1708,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ifstatements/IsSocialMediaUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/IsSocialMediaUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
