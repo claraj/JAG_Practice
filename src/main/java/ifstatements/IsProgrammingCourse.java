@@ -43,11 +43,8 @@ public class IsProgrammingCourse {
         String java = "Java Programming";
         String csharp = "C# Programming";
         String web = "Web Client & Server Programming";
-        
-        // TODO replace this return statement with your code.
-        return false;
-        
-        
+
+        return false; // replace with your code
     }
     
     

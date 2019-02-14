@@ -25,7 +25,7 @@ public class MetersToFeet {
         System.out.println(meters + " meters is equivalent to " + feet + " feet");
     }
 
-    public static double metersToFeet(double meters) {
+    public static double metersToFeet(double numberOfMeters) {
         
         // TODO convert the value of the variable meters to feet. Assume 1 meter = 3.28 feet
         
